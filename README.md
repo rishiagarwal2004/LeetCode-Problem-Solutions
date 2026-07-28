@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0007-reverse-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
