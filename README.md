@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0136-single-number) |
 | [0486-predict-the-winner](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0877-stone-game) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0136-single-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
