@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0007-reverse-integer) |
 | [0486-predict-the-winner](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/1406-stone-game-iii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Counting Sort
 |  |
