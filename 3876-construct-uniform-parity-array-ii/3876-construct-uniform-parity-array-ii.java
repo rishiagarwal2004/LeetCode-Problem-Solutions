@@ -9,6 +9,6 @@ class Solution {
                 allEven = false;
             }
         }
-        return allEven || min % 2 != 0;
+        return allEven || min % 2 == 1;
     }
 }
