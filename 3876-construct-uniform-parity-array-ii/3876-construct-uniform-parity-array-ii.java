@@ -1,21 +1,14 @@
 class Solution {
     public boolean uniformArray(int[] nums1) {
-        int count = 0;
+        int min = nums1[0];
+        boolean allEven = true;
         for(int num : nums1){
-            if(num % 2 ==0){
-              count =count +1;
+            min = Math.min(min , num);
+
+            if (num %2 ==1){
+                allEven = false;
             }
         }
-        if (count == nums1.length){
-            return true;
-        }
-        else{
-            Arrays.sort(nums1);
-            if(nums1[0] % 2 ==0){
-                return false;
-            }
-        }
-        return true;
-        
+        return allEven || min % 2 != 0;
     }
 }
