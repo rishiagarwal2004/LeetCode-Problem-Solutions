@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0136-single-number) |
 | [0486-predict-the-winner](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
