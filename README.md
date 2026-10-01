@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0202-happy-number) |
 | [1096-brace-expansion-ii](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0007-reverse-integer) |
+| [0202-happy-number](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0633-sum-of-square-numbers) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0027-remove-element) |
+| [0202-happy-number](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -392,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
