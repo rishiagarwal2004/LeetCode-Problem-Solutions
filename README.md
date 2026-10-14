@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1572-matrix-diagonal-sum](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/1872-stone-game-viii) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0835-image-overlap](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/1260-shift-2d-grid) |
+| [1572-matrix-diagonal-sum](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
