@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0633-sum-of-square-numbers) |
