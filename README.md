@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0202-happy-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1096-brace-expansion-ii](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0877-stone-game) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/1406-stone-game-iii) |
@@ -517,4 +519,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
