@@ -1,6 +1,5 @@
 class Solution {
     public int minMoves(int[] nums) {
-         int n = nums.length;
         int min = nums[0];
         int sum = 0;
         for(int num : nums){
@@ -9,6 +8,6 @@ class Solution {
                 min = num;
             }
         }
-        return sum - (n * min);
+        return sum - (nums.length * min);
     }
 }
