@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0136-single-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0835-image-overlap) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0263-ugly-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0633-sum-of-square-numbers) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1096-brace-expansion-ii](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/1331-rank-transform-of-an-array) |
