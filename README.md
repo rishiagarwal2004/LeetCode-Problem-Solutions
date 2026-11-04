@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0136-single-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0485-max-consecutive-ones](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/0835-image-overlap) |
