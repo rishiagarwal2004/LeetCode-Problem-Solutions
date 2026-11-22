@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/1927-sum-game) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/rishiagarwal2004/LeetCode-Problem-Solutions/tree/master/2351-first-letter-to-appear-twice) |
